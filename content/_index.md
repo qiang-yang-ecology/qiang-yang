@@ -52,28 +52,6 @@ sections:
     title: Work Experience
   design:
     columns: "2"
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
 - block: portfolio
   content:
     buttons:
@@ -122,6 +100,28 @@ sections:
   design:
     columns: "2"
     view: citation
+- block: collection
+  content:
+    count: 5
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - post
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: Recent Posts
+  design:
+    columns: "2"
+    view: compact
+  id: posts
 - block: contact
   content:
     address:
@@ -143,13 +143,13 @@ sections:
       name: Follow Me
     
     email: qiang.yang@idiv.de
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
-    subtitle: null
+#    form:
+#      formspree:
+#        id: null
+#      netlify:
+#        captcha: false
+#      provider: netlify
+#    subtitle: null
     text: If you're keen on discussing science or exploring collaborative prospects, please don't hesitate to reach out through the contact form below or via my email address.
     title: Contact
   design:
