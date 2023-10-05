@@ -27,7 +27,7 @@ date: "2023-08-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Nature Ecology & Evolution**"
+publication: "**Nature Ecology & Evolution** https://doi.org/10.1038/s41559-023-02172-z"
 publication_short: ""
 
 abstract: Human activities are causing global biotic redistribution, translocating species and providing them with opportunities to establish populations beyond their native ranges. Species originating from certain global regions, however, are disproportionately represented among naturalized aliens. The evolutionary imbalance hypothesis posits that differences in absolute fitness among biogeographic divisions determine outcomes when biotas mix. Here, we compile data from native and alien distributions for nearly the entire global seed plant flora and find that biogeographic conditions predicted to drive evolutionary imbalance act alongside climate and anthropogenic factors to shape flows of successful aliens among regional biotas. Successful aliens tend to originate from large, biodiverse regions that support abundant populations and where species evolve against a diverse backdrop of competitors and enemies. We also reveal that these same native distribution characteristics are shared among the plants that humans select for cultivation and economic use. In addition to influencing species’ innate potentials as invaders, we therefore suggest that evolutionary imbalance shapes plants’ relationships with humans, impacting which species are translocated beyond their native distributions.

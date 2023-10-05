@@ -29,7 +29,7 @@ date: "2023-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Nature Communications**"
+publication: "**Nature Communications** https://www.nature.com/articles/s41467-023-41607-w"
 publication_short: ""
 
 abstract: Darwin’s naturalization conundrum describes two seemingly contradictory hypotheses regarding whether alien species closely or distantly related to native species should be more likely to naturalize in regional floras. Both expectations have accumulated empirical support, and whether such apparent inconsistency can be reconciled at the global scale is unclear. Here, using 219,520 native and 9,531 naturalized alien plant species across 487 globally distributed regions, we found a latitudinal gradient in Darwin’s naturalization conundrum. Naturalized alien plant species are more closely related to native species at higher latitudes than they are at lower latitudes,indicating a greater influence of preadaptation in harsher climates. Human landscape modification resulted in even steeper latitudinal clines by selecting aliens distantly related to natives in warmer and drier regions. Our results demonstrate that joint consideration of climatic and anthropogenic conditions is critical to reconciling Darwin’s naturalization conundrum.

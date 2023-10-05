@@ -19,7 +19,7 @@ date: "2023-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecological Economics* 212: 107916"
+publication: "**Ecological Economics** 212: 107916"
 publication_short: ""
 
 abstract: The human economy is in effect a subsystem of the biosphere. Ecosystems provide natural resources that are fundamental to both societal well-being and economic performance. Here, we show how recovery of national economies from systemic crises can be moderated by the natural resources used to power them. By examining data from 133 systemic economic crisis events in 98 countries over 40 years, we found that countries relying on a broad range of electricity sources experienced extended recovery times from crises, though that effect was tempered somewhat when the relative contribution of those sources was increasingly balanced. However, the best predictor of economic recovery was the extent of reliance on renewable energy—we found that economic recovery tends to be swiftest in countries powered primarily by renewable energy sources. These findings have profound implications for global energy policy and reveal the need to consider both the composition and diversity of energy sources in models of economic resilience.
