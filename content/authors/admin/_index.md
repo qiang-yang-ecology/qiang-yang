@@ -49,7 +49,7 @@ superuser: true
 title: Qiang Yang 杨强
 ---
 
-I am a postdoctoral researcher at the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig. My research interests lie broadly in community ecology and macroecology, in particular in biodiversity, ecosystem functioning, and stability. I am fascinated by the nature of the relationships among these properties, how they scale tropically and spatially, and how they are regulated by environmental change and human activities.
+I am a postdoctoral researcher at the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig. My research interests lie broadly in community ecology and macroecology, in particular in biodiversity, ecological networks, and stability. I am fascinated by the nature of the relationships among these properties, how they scale tropically and spatially, and how they are regulated by environmental change and human activities.
 
 I also serve as one of the associate editors for the journal *Functional Ecology*.
 {style="text-align: justify;"}

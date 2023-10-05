@@ -150,7 +150,7 @@ sections:
 #        captcha: false
 #      provider: netlify
 #    subtitle: null
-    text: If you're keen on discussing science or exploring collaborative prospects, please don't hesitate to reach out through the contact form below or via my email address.
+    text: If you would like to talk about science or explore collaborative prospects, please don't hesitate to reach out via my email address.
     title: Contact
   design:
     columns: "2"
