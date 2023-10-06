@@ -42,7 +42,7 @@ social:
   link: https://github.com/qiang-yang-ecology
 - icon: cv
   icon_pack: ai
-  link: uploads/Qiang's CV.pdf
+  link: uploads/CV.pdf
 status:
   icon: ☕️
 superuser: true
