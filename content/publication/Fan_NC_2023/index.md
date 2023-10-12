@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://github.com/qiang-yang-ecology/papers/blob/main/s41467-023-41607-w.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
