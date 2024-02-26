@@ -29,7 +29,7 @@ sections:
     - company: German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
       #company_logo: org-GC
       company_url: "https://www.idiv.de/en/index.html"
-      date_end: ""
+      date_end: "2023-12-31"
       date_start: "2022-02-01"
       description: Synthesizing how plant-pollinator interactions change along environmental gradients
       location: Leipzig, Germany
@@ -130,7 +130,7 @@ sections:
       country_code: DE
       postcode: "04109"
       region: Saxony
-      street: Puschstraße 4
+      street: Davidstr. 12
     autolink: true
     contact_links:
     - icon: twitter
@@ -142,7 +142,7 @@ sections:
       link: https://www.researchgate.net/profile/Qiang-Yang-8
       name: Follow Me
     
-    email: qiang.yang@idiv.de
+    email: qyang@tcd.ie
 #    form:
 #      formspree:
 #        id: null

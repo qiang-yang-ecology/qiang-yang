@@ -20,10 +20,10 @@ interests:
 - Biological Invasion
 - Global Changes
 last_name: Yang
-organizations:
-- name: The German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
-  url: https://www.idiv.de/en/index.html
-role: Postdoctoral researcher
+#organizations:
+#- name: The German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
+#  url: https://www.idiv.de/en/index.html
+#role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,7 +49,7 @@ superuser: true
 title: Qiang Yang 杨强
 ---
 
-I am a postdoctoral researcher at the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig. My research interests lie broadly in community ecology and macroecology, in particular in biodiversity, ecological networks, and stability. I am fascinated by the nature of the relationships among these properties, how they scale tropically and spatially, and how they are regulated by environmental change and human activities.
+My research interests lie broadly in community ecology and macroecology, in particular in biological invasions, biodiversity patterns, ecological networks, and ecosystem stability. I am especially fascinated by how biodiversity and ecological networks scale tropically and spatially, and how they are regulated by environmental changes, human activities and biological invasions.
 
 I also serve as one of the associate editors for the journal *Functional Ecology*.
 {style="text-align: justify;"}
