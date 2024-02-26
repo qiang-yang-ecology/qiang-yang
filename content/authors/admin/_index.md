@@ -49,7 +49,7 @@ superuser: true
 title: Qiang Yang 杨强
 ---
 
-My research interests lie broadly in community ecology and macroecology, in particular in biological invasions, biodiversity patterns, ecological networks, and ecosystem stability. I am especially fascinated by how biodiversity and ecological networks scale tropically and spatially, and how they are regulated by environmental changes, human activities and biological invasions.
+My research interests lie broadly in community ecology and macroecology, in particular in biological invasions, biodiversity patterns, ecological networks, and ecosystem stability. I am especially fascinated by how biodiversity and ecological networks scale with time, space and trophic levels, and how they are regulated by environmental changes, human activities and biological invasions.
 
 I also serve as one of the associate editors for the journal *Functional Ecology*.
 {style="text-align: justify;"}
